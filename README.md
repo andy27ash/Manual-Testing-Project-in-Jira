@@ -154,39 +154,7 @@ Motiv: Astfel de testimoniale nu au legătură directă cu funcționalitatea apl
 
 <h5>Project risks:</h5>
 
-**(
-Criteriile de intrare pentru un proiect de testare sunt condițiile care trebuie îndeplinite înainte de a începe faza de testare a unui produs software. Aceste criterii asigură că toate elementele necesare pentru a efectua testele sunt disponibile și în stare corespunzătoare. Iată câteva criterii tipice de intrare pentru un proiect de testare:
-
-1. Documentația Cerințelor
-Cerințele funcționale și non-funcționale trebuie să fie bine definite, documentate și aprobate.
-2. Planul de Testare
-Există un plan de testare clar care să cuprindă strategia, obiectivele testării, resursele necesare și metodologia de testare.
-3. Mediul de Testare
-Mediul de testare (hardware, software, rețea) trebuie să fie configurat și să funcționeze corect, pentru a permite executarea testelor.
-4. Test Cases (Cazuri de Testare)
-Cazurile de testare trebuie să fie definite, documentate și revizuite pentru a acoperi toate cerințele sistemului.
-5. Produse/Artefacte Software
-Versiunea corespunzătoare a software-ului care urmează să fie testat trebuie să fie disponibilă și stabilă.
-6. Resurse Umane
-Echipa de testare trebuie să fie formată și disponibilă, inclusiv teste specializate, dacă este necesar.
-7. Defecte cunoscute
-Lista defectelor cunoscute trebuie să fie documentată, cu detalii despre impactul acestora asupra testării.
-8. Configurarea Instrumentelor de Testare
-Instrumentele de testare necesare (de ex., software de automatizare, instrumente de urmărire a defectelor) trebuie să fie instalate și configurate.
-9. Criterii de acceptare
-Definirea clară a criteriilor de acceptare pentru rezultatele testării, care va determina succesul testării.
-10. Training și Documentație
-Echipa de testare trebuie să fi fost instruită corespunzător asupra aplicației și a instrumentelor de testare, iar documentația relevantă trebuie să fie disponibilă.
-11. Planificarea Sesiunilor de Testare
-Sesiunile de testare trebuie să fie planificate, inclusiv mile-stonele și termenele limită.
-12. Stabilirea Comunicării
-Canalele de comunicare între echipele de dezvoltare și cele de testare trebuie să fie stabilite și funcționale.
-Aceste criterii de intrare ajută la asigurarea unei desfășurări eficiente și eficiente a activităților de testare, reducând riscurile de întârzieri și probleme în proiectul global de livrare a software-ului. Respectarea acestor criterii contribuie, de asemenea, la îmbunătățirea calității produsului și la satisfacția utilizatorului final.
-
-
-
-
-Testările aplicațiilor de comandă de mâncare sunt esențiale pentru asigurarea funcționării corecte a toate funcționalitățile, dar există și exemple de test cases care nu sunt relevante sau nu pot fi efectuate în mod practic în acest context. Iată câteva exemple de teste care nu pot fi realizate sau care nu ar avea sens pentru o aplicație de comandă de mâncare:
+**(Testările aplicațiilor de comandă de mâncare sunt esențiale pentru asigurarea funcționării corecte a toate funcționalitățile, dar există și exemple de test cases care nu sunt relevante sau nu pot fi efectuate în mod practic în acest context. Iată câteva exemple de teste care nu pot fi realizate sau care nu ar avea sens pentru o aplicație de comandă de mâncare:
 
 1. Teste de performanță a meniurilor fizice
 
