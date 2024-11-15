@@ -43,61 +43,57 @@ The plan identifies the items to be tested, the features to be tested, the types
 <h4> 1.1.2 Entry criteria defined </h4>
 
 **(Documentația Cerințelor: 
-
 Cerințele funcționale și non-funcționale trebuie să fie complet documentate și aprobate.
-Plan de Testare:
+Plan de Testare:Un plan de testare trebuie să fie elaborat, incluzând strategia, obiectivele și resursele necesare.
 
-Un plan de testare trebuie să fie elaborat, incluzând strategia, obiectivele și resursele necesare.
 Mediul de Testare:
-
 Mediul (servere, baze de date, aplicații mobile etc.) trebuie să fie configurat și funcțional.
+
 Cazuri de Testare:
-
 Cazurile de testare relevante trebuie să fie redactate, revizuite și aprobate.
+
 Produse Software:
-
 Aplicația de comandat mâncare trebuie să fie disponibilă în versiunea stabilă pentru testare.
+
 Echipă de Testare:
-
 Membrii echipei de testare trebuie să fie disponibili și instruiți asupra aplicației.
+
 Instrumente de Testare:
-
 Instrumentele de testare necesare (cum ar fi software-ul de automatizare și urmărire a defectelor) trebuie să fie instalate și configurate.
+
 Defecte Cunoscute:
-
 O listă cu defectele cunoscute ale aplicației trebuie să fie disponibilă.
+
 Planificarea Testărilor:
-
 Sesiunile de testare trebuie să fie planificate, inclusiv mile-stone și termene.
-Comunicarea:
 
+Comunicarea:
 Canalele de comunicare între echipele de dezvoltare și testare trebuie să fie stabilite.)**
 
 <h4> 1.1.3 Exit criteria defined </h4>
 
 **(Finalizarea Execuției Testelor:
-
 Toate testele planificate trebuie să fie executate, inclusiv cazurile de testare obligatorii.
+
 Rezultate Documentate:
-
 Rezultatele testelor trebuie să fie complet documentate, incluzând defectele identificate.
+
 Evaluarea Defectelor:
-
 Toate defectele critice trebuie să fie identificate, documentate și, ideal, rezolvate.
+
 Validarea Cerințelor:
-
 Toate cerințele funcționale trebuie să fie validate, demonstrând că aplicația funcționează conform așteptărilor.
+
 Raport de Testare:
-
 Un raport de testare final care include concluzii și recomandări trebuie să fie elaborat.
+
 Acceptarea Clinică:
-
 O confirmare formală din partea echipei de dezvoltare că aplicația este gata pentru lansare.
+
 Feedback de la Utilizatori:
-
 Poate exista o sesiune de feedback de la utilizatori în cazul testelor beta, dacă este cazul.
-Gata pentru Lansare:
 
+Gata pentru Lansare:
 Aplicația trebuie să îndeplinească toți indicatorii de succes stabiliți în planul de testare pentru a fi considerată "gata".)**
 
 <h4> 1.1.4 Test scope</h4>
