@@ -8,9 +8,10 @@ Tools used: Jira, Zephyr Squad.
 
 <h2>Functional specifications:</h2>
 
-The below story **(daca aveti mai multe scrieti stories**) was created in Jira and describes the functional specifications of the "**nume_modul**" module, for which the final project is performed upon.
+The below stories was created in Jira and describes the functional specifications of the "**Delivery Food**" module, for which the final project is performed upon.
 
 **inserati aici fie poza cu story-ul / story-urile daca aveti mai putine, dar daca aveti mai mult de doua recomand sa descarcati story-urile din jira si sa le incarcati ca fisier**
+![Captura de pantalla (12)](https://github.com/user-attachments/assets/160140cb-c8c4-4f5e-bf09-4a7dfd55da69)
 
 Here you can find the release that was created for this project:
 
