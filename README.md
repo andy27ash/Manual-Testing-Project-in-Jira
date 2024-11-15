@@ -145,8 +145,11 @@ Test Case 1: Plasarea unei comenzi
 <h5>Tests not in scope: </h5>
 
 **(Testarea sistemului de opinie despre clișee culturale
-Descriere: Testarea unui sistem care oferă opinii asupra clișeelor legate de diverse culturi alimentare.
-Motiv: Astfel de testimoniale nu au legătură directă cu funcționalitatea aplicației de comandă a mâncării, care ar trebui să fie bazată pe feedback-ul utilizatorilor și pe calitatea produselor și serviciilor.
+ Testarea capacității de satisfacere a clienților non-agenți
+
+ Teste de integrare cu servicii de zbor
+ 
+Testarea sistemului de opinie despre clișee culturale
 
  Testarea funcționalității de predicție a vremii)**
 
@@ -163,14 +166,6 @@ Motiv: Astfel de testimoniale nu au legătură directă cu funcționalitatea apl
 3. Testele de curățenie a restaurantelor
 
 4. Teste de brand marketing în locații fizice
-
-5. Testarea capacității de satisfacere a clienților non-agenți
-
-6. Teste de integrare cu servicii de zbor
-
-7. Testarea sistemului de opinie despre clișee culturale
-
-8. Testarea funcționalității de predicție a vremii
 )**
 
 <h5> Product risks: </h5>
